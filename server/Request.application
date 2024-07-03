@@ -1,0 +1,5 @@
+run_simple(
+    hostname='localhost',
+    port=5555,
+    application=application
+)
